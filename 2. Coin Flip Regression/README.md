@@ -1,4 +1,5 @@
-|--1. Housing Price Prediction           
+```
+|--Coin Flip Regression           
   |--project                              
     |--README.md                         
     |--volume
